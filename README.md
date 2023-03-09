@@ -1,3 +1,3 @@
 # graphql-practice
 
-Code from a tutorial
+Code from a YouTube tutorial
